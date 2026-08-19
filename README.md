@@ -194,9 +194,9 @@ These numbers are **illustrative** – they depend on the synthetic generation p
 
 ---
 
-[image 1](!example_RAND004_false_positive_case.png)
-[image 2](!example_VCP000.png)
-[image 3](!som_affinity_map.png)
+[!image 1](/example_RAND004_false_positive_case.png)
+![image 2](/example_VCP000.png)
+![image 3](/som_affinity_map.png)
 
 
 ---
